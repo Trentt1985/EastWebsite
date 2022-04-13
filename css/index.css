@@ -55,3 +55,7 @@ ul > li > a {
   color: white;
   font-size: 100px;
 }
+
+.quote {
+  color: rgb(245, 249, 11);
+}
